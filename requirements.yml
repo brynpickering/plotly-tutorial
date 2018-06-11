@@ -1,0 +1,14 @@
+name: vis-tutorial
+channels:
+    - conda-forge
+    - defaults
+dependencies:
+    - matplotlib=2.1.0
+    - notebook=5.1.0
+    - numpy=1.14.1
+    - pandas=0.22
+    - plotly=2.5
+    - python=3.6
+    - statsmodels=0.8.0
+    - xarray=0.10.1
+    - cufflinks-py=0.12.1
